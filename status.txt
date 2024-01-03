@@ -1,6 +1,10 @@
 Ver: 1
 
-Chapters: 1
+Number of Chapters: 1
 
-Chapter 1 Name: Definite and indefinite articles
-Chapter 1 Exercise: 10
+New Chapters: 1
+
+New Chapter 1 Index: 1
+New Chapter 1 Name: Definite and indefinite articles
+New Chapter 1 Number of Exercise: 10
+New Chapter 1 New Exercise: 10
