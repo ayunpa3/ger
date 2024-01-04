@@ -27,3 +27,48 @@ Answer: Die Schwester ist da.
 
 Question: (Sängerin) __________ ist da.
 Answer: Die Sängerin ist da.
+
+Question: (Gymnasium) __________ ist klein.
+Answer: Das Gymnasium ist klein.
+
+Question: (Katze) __________ ist klein.
+Answer: Die Katze ist klein.
+
+Question: (Sportler) __________ ist klein.
+Answer: Der Sportler ist klein.
+
+Question: (Madchen) __________ ist klein.
+Answer: Das Madchen ist klein.
+
+Question: (Boden) __________ ist klein.
+Answer: Der Boden ist klein.
+
+Question: (Landkarte) __________ ist klein.
+Answer: Die Landkarte ist klein.
+
+Question: (Universitat) __________ ist klein.
+Answer: Die Universitat ist klein.
+
+Question: (Pullover) __________ ist klein.
+Answer: Der Pullover ist klein.
+
+Question: (Schule) __________ ist klein.
+Answer: Die Schule ist klein.
+
+Question: (Kind) __________ ist klein.
+Answer: Das Kind ist klein.
+
+Question: (Auto) __________ ist hier.
+Answer: Das Auto ist hier.
+
+Question: (Gartnerin) __________ ist hier.
+Answer: Die Gartnerin ist hier.
+
+Question: (Frau) __________ ist hier.
+Answer: Die Frau ist hier.
+
+Question: (Professorin) __________ ist hier.
+Answer: Die Professorin ist hier.
+
+Question: (Junge) __________ ist hier.
+Answer: Der Junge ist hier.
