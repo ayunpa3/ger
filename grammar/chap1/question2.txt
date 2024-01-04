@@ -1,0 +1,76 @@
+Total: 25
+
+Question: der Mann
+Answer: dieser Mann
+
+Question: die Frau
+Answer: diese Frau
+
+Question: das Kind
+Answer: dieses Kind
+
+Question: die Blume
+Answer: diese Blume
+
+Question: der Garten
+Answer: dieser Garten
+
+Question: die Gartnerin
+Answer: diese Gartnerin
+
+Question: die Lehrerin
+Answer: diese Lehrerin
+
+Question: das Studium
+Answer: dieses Studium
+
+Question: das Bett
+Answer: dieses Bett
+
+Question: der Professor
+Answer: dieser Professor
+
+Question: der Diplomat
+Answer: dieser Diplomat
+
+Question: die Bluse
+Answer: diese Bluse
+
+Question: der Boden
+Answer: dieser Boden
+
+Question: das Fenster
+Answer: dieses Fenster
+
+Question: die Schauspielerin
+Answer: diese Schauspielerin
+
+Question: __________ Haus
+Answer: dieses Haus
+
+Question: __________ Universitat
+Answer: diese Universitat
+
+Question: __________ Konigtum
+Answer: dieses Konigtum
+
+Question: __________ Gartner
+Answer: dieser Gartner
+
+Question: __________ Lehrer
+Answer: dieser Lehrer
+
+Question: __________ Schule
+Answer: diese Schule
+
+Question: __________ Madchen
+Answer: dieses Madchen
+
+Question: __________ Sanger
+Answer: dieser Sanger
+
+Question: __________ Sangerin
+Answer: diese Sangerin
+
+Question: __________ Landkarte
+Answer: diese Landkarte
