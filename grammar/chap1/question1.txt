@@ -1,0 +1,29 @@
+Question: (Kind) __________ ist da.
+Answer: Das Kind ist da.
+
+Question: (Blume) __________ ist da.
+Answer: Die Blume ist da.
+
+Question: (Haus) __________ ist da.
+Answer: Das Haus ist da.
+
+Question: (Garten) __________ ist da.
+Answer: Der Garten ist da.
+
+Question: (Wagen) __________ ist da.
+Answer: Der Wagen ist da.
+
+Question: (Stuhl) __________ ist da.
+Answer: Der Stuhl ist da.
+
+Question: (Auto) __________ ist da.
+Answer: Das Auto ist da.
+
+Question: (Bruder) __________ ist da.
+Answer: Der Bruder ist da.
+
+Question: (Schwester) __________ ist da.
+Answer: Die Schwester ist da.
+
+Question: (Sängerin) __________ ist da.
+Answer: Die Sängerin ist da.
