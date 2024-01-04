@@ -1,0 +1,42 @@
+<h3>Definite articles</h3>
+<p>The definite articles (<strong>der</strong>, <strong>die</strong>, <strong>das</strong>) are called <strong>der</strong>-words. Another word that can be used in place of a definite article is <strong>dieser</strong> (this), and it, too, is a <strong>der</strong>-word.</p>
+<p>Example:</p>
+<p><strong>Masculine nouns</strong></p>
+<ul>
+<li>dieser Mann
+<ul>
+<li><em>this man</em></li>
+</ul>
+</li>
+<li>dieser Garten<br />
+<ul>
+<li><em> this garden</em></li>
+</ul>
+</li>
+</ul>
+<p><strong>Feminine nouns</strong></p>
+<ul>
+<li>diese Schule
+<ul>
+<li><em> this school</em></li>
+</ul>
+</li>
+<li>diese Bluse
+<ul>
+<li><em> this blouse</em></li>
+</ul>
+</li>
+</ul>
+<p><strong>Neuter nouns</strong></p>
+<ul>
+<li>dieses Fenster
+<ul>
+<li><em> this window</em></li>
+</ul>
+</li>
+<li>dieses Bett
+<ul>
+<li><em> this bed</em></li>
+</ul>
+</li>
+</ul>
