@@ -3,40 +3,40 @@
 <p>Example:</p>
 <p><strong>Masculine nouns</strong></p>
 <ul>
-<li>Der Mann ist hier.
+<li> Der Mann ist hier.
 <ul>
-<li><em>The man is here.</em></li>
+<li><em> The man is here.</em></li>
 </ul>
 </li>
-<li>Der Lehrer ist hier.
+<li> Der Lehrer ist hier.
 <ul>
-<li><em>The teacher is here.</em></li>
+<li><em> The teacher is here.</em></li>
 </ul>
 </li>
 </ul>
 <p><strong>Feminine nouns</strong></p>
 <ul>
-<li>Die Frau ist da.
+<li> Die Frau ist da.
 <ul>
-<li><em>The woman is there.</em></li>
+<li><em> The woman is there.</em></li>
 </ul>
 </li>
-<li>Die Blume ist da.
+<li> Die Blume ist da.
 <ul>
-<li><em>The flower is there.</em></li>
+<li><em> The flower is there.</em></li>
 </ul>
 </li>
 </ul>
 <p><strong>Neuter nouns</strong></p>
 <ul>
-<li>Das Auto ist klein.
+<li> Das Auto ist klein.
 <ul>
-<li><em>The car is little.</em></li>
+<li><em> The car is little.</em></li>
 </ul>
 </li>
-<li>Das Haus ist klein.
+<li> Das Haus ist klein.
 <ul>
-<li><em>The house is little.</em></li>
+<li><em> The house is little.</em></li>
 </ul>
 </li>
 </ul>
