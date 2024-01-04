@@ -1,3 +1,4 @@
+<h3>Definite articles</h3>
 <p>A noun illustrates its gender by being accompanied by either <strong>der</strong>, <strong>die</strong>, or <strong>das</strong>.</p>
 <p>Example:</p>
 <p><strong>Masculine nouns</strong></p>
