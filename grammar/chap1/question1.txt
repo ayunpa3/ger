@@ -1,3 +1,5 @@
+Total: 25
+
 Question: (Kind) __________ ist da.
 Answer: Das Kind ist da.
 
