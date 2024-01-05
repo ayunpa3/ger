@@ -48,14 +48,14 @@ Answer: diese Schauspielerin
 Question: __________ Haus
 Answer: dieses Haus
 
-Question: __________ Universitat
-Answer: diese Universitat
+Question: __________ Universität
+Answer: diese Universität
 
-Question: __________ Konigtum
-Answer: dieses Konigtum
+Question: __________ Königtum
+Answer: dieses Königtum
 
-Question: __________ Gartner
-Answer: dieser Gartner
+Question: __________ Gärtner
+Answer: dieser Gärtner
 
 Question: __________ Lehrer
 Answer: dieser Lehrer
@@ -63,14 +63,14 @@ Answer: dieser Lehrer
 Question: __________ Schule
 Answer: diese Schule
 
-Question: __________ Madchen
-Answer: dieses Madchen
+Question: __________ Mädchen
+Answer: dieses Mädchen
 
-Question: __________ Sanger
-Answer: dieser Sanger
+Question: __________ Sänger
+Answer: dieser Sänger
 
-Question: __________ Sangerin
-Answer: diese Sangerin
+Question: __________ Sängerin
+Answer: diese Sängerin
 
 Question: __________ Landkarte
 Answer: diese Landkarte
