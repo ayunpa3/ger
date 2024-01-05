@@ -1,0 +1,42 @@
+<h3>Indefinite articles</h3>
+<p>The German indefinite articles for the subject of a sentence are <strong>ein</strong> and <strong>eine</strong>, and both mean <em>a</em> or <em>an</em>. <strong>Ein</strong> is used with masculine and neuter nouns, and <strong>eine</strong> is used with feminine nouns.</p>
+<p>Example:</p>
+<p><strong>Masculine nouns</strong></p>
+<ul>
+<li>ein Arzt
+<ul>
+<li><em> a doctor</em></li>
+</ul>
+</li>
+<li>ein Fernsehapparat
+<ul>
+<li><em> a television</em></li>
+</ul>
+</li>
+</ul>
+<p><strong>Feminine nouns</strong></p>
+<ul>
+<li>eine Tante
+<ul>
+<li><em> an aunt</em></li>
+</ul>
+</li>
+<li>eine Tochter
+<ul>
+<li><em> a daughter</em></li>
+</ul>
+</li>
+</ul>
+<p><strong>Neuter nouns</strong></p>
+<ul>
+<li>ein Buch
+<ul>
+<li><em> a book</em></li>
+</ul>
+</li>
+<li>ein Bild
+<ul>
+<li><em> a picture</em></li>
+</ul>
+</li>
+</ul>
