@@ -6,8 +6,10 @@ New Chapters: 1
 
 New Chapter 1 Index: 1
 New Chapter 1 Name: Definite and indefinite articles
-New Chapter 1 Number of Exercise: 2
-New Chapter 1 New Exercise: 2
+New Chapter 1 Number of Exercise: 4
+New Chapter 1 New Exercise: 4
 
 New Chapter 1 New Exercise 1 Index: 1
 New Chapter 1 New Exercise 2 Index: 2
+New Chapter 1 New Exercise 3 Index: 3
+New Chapter 1 New Exercise 4 Index: 4
