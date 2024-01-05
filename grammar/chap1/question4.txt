@@ -1,0 +1,76 @@
+Total: 25
+
+Question: die Tochter
+Answer: keine Tochter
+
+Question: der Tisch
+Answer: kein Tisch
+
+Question: das Fenster
+Answer: kein Fenster
+
+Question: das Restaurant
+Answer: kein Restaurant
+
+Question: der Gärtner
+Answer: kein Gärtner
+
+Question: die Großmutter
+Answer: keine Großmutter
+
+Question: der Arzt
+Answer: kein Arzt
+
+Question: die Ärztin
+Answer: keine Ärztin
+
+Question: das Rathaus
+Answer: kein Rathaus
+
+Question: die Butter
+Answer: keine Butter
+
+Question: __________ Junge
+Answer: kein Junge
+
+Question: __________ Schlafzimmer
+Answer: kein Schlafzimmer
+
+Question: __________ Bild
+Answer: kein Bild
+
+Question: __________ Schwester
+Answer: keine Schwester
+
+Question: __________ Tante
+Answer: keine Tante
+
+Question: __________ Bruder
+Answer: kein Bruder
+
+Question: __________ Fernsehapparat
+Answer: kein Fernsehapparat
+
+Question: __________ Uhr
+Answer: keine Uhr
+
+Question: __________ Fenster
+Answer: kein Fenster
+
+Question: __________ Mantel
+Answer: kein Mantel
+
+Question: __________ Frau
+Answer: keine Frau
+
+Question: __________ Geld
+Answer: kein Geld
+
+Question: __________ Mutter
+Answer: keine Mutter
+
+Question: __________ Universität
+Answer: keine Universität
+
+Question: __________ Zeit
+Answer: keine Zeit
