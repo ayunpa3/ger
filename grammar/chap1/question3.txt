@@ -1,0 +1,46 @@
+Total: 15
+
+Question: die Lehrerin
+Answer: eine Lehrerin
+
+Question: der Junge
+Answer: ein Junge
+
+Question: das Fenster
+Answer: ein Fenster
+
+Question: das Bett
+Answer: ein Bett
+
+Question: die Universität
+Answer: eine Universität
+
+Question: die Tante
+Answer: eine Tante
+
+Question: das Mädchen
+Answer: ein Mädchen
+
+Question: der Arzt
+Answer: ein Arzt
+
+Question: das Buch
+Answer: ein Buch
+
+Question: der Fernsehapparat
+Answer: ein Fernsehapparat
+
+Question: die Tochter
+Answer: eine Tochter
+
+Question: das Restaurant
+Answer: ein Restaurant
+
+Question: der Boden
+Answer: ein Boden
+
+Question: die Mutter
+Answer: eine Mutter
+
+Question: das Bild
+Answer: ein Bild
