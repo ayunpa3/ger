@@ -1,0 +1,25 @@
+<h3>Question</h3>
+<p>The subject of a sentence does not occur solely in statements. It is also used in questions. In a German question, the verb precedes the subject, and the rest of the sentence remains the same.</p>
+<p>Example:</p>
+<ul>
+<li>Ist <strong>der</strong> Mann da?
+<ul>
+<li><em>Is the man there?</em></li>
+</ul>
+</li>
+<li>Ist <strong>diese</strong> Frau alt?
+<ul>
+<li><em>Is this woman old?</em></li>
+</ul>
+</li>
+<li>Ist <strong>eine</strong> Katze klein?
+<ul>
+<li><em>Is a cat small?</em></li>
+</ul>
+</li>
+<li>Ist <strong>kein</strong> Buch neu?
+<ul>
+<li><em>Isn't any book new?</em></li>
+</ul>
+</li>
+</ul>
